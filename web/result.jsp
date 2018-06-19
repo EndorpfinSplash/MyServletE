@@ -2,5 +2,6 @@
 <html><head><title>Result Page</title></head>
 <body>
 <p>Кнопка нажата через ${res} сек </p>
+
 </body>
 </html>
